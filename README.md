@@ -61,6 +61,28 @@ It is perfect for creating flat styled UI. Easy to understand and well-commented
 ### Highlight Plus 2D
 * Highlight Plus 2D adds outline, glow, see-through, overlay, shadow and zoom effects to any sprite in 2D or 3D scenes.
 * https://assetstore.unity.com/packages/tools/particles-effects/highlight-plus-2d-138383
-### 
-
+### Camera Play
+* Camera Play is a powerful solution for quickly adding special effects to your 2D, 2.5D, and 3D productions.
+* https://assetstore.unity.com/packages/tools/particles-effects/camera-play-60790
+### Particle Plexus
+* Create beautiful distance-based procedural line effects between particles at runtime! 
+* https://assetstore.unity.com/packages/tools/particles-effects/particle-plexus-102931
+### Maintainer
+* Maintainer keeps your projects neat and clean with this 3-in-1 feature set: 
+      * Issues Finder: find & fix problems and issues 
+      * References Finder: find assets references in whole project 
+      * Project Cleaner: clean garbage 
+* https://assetstore.unity.com/packages/tools/utilities/maintainer-32199
+### Ultimate Replay
+* Ultimate Replay is a complete state based replay system ideally suited to kill cams or action replay applications. Due to the state based nature of the system, it is possible to view replays from any angle or even fly around the scene as playback occurs.
+* https://assetstore.unity.com/packages/tools/camera/ultimate-replay-94246
+### Runtime Editor
+* Runtime Editor is the set of scripts and prefabs which help you to create scene editor, game level editor or build your own modeling application. It supports drag & drop, undo & redo and selection api. To implement user interface and core functions runtime editor use transform-handles, gizmos, save load subsystem and three controls: menu, virtualizing tree view and dock panels. 
+* https://assetstore.unity.com/packages/tools/modeling/runtime-editor-64806
+### Chronos
+* Chronos brings full time control to Unity. It is easy to use, optimized for performance and equipped to handle any scenario you have in mind. Perfect for magic spells, puzzle games, sci-fi abilities or special effects! 
+* https://assetstore.unity.com/packages/tools/particles-effects/chronos-31225
+### Multi Device Preview & Gallery
+* Multi Device Preview & Gallery gives you an accurate preview of your game for multiple devices, resolutions, and aspects, at a glance. 
+* https://assetstore.unity.com/packages/tools/utilities/multi-device-preview-gallery-82015
 
