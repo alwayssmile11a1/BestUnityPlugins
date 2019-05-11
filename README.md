@@ -85,4 +85,11 @@ It is perfect for creating flat styled UI. Easy to understand and well-commented
 ### Multi Device Preview & Gallery
 * Multi Device Preview & Gallery gives you an accurate preview of your game for multiple devices, resolutions, and aspects, at a glance. 
 * https://assetstore.unity.com/packages/tools/utilities/multi-device-preview-gallery-82015
+### xARM: Aspect and Resolution Master
+* xARM is the powerful and easy-to-use solution to get a real preview of your game. 
+      * Preview at device's physical size
+      * Verify pixel perfectness
+      * Compare multiple resolutions while editing
+      * Batch screenshot export
+* https://assetstore.unity.com/packages/tools/utilities/xarm-aspect-and-resolution-master-10563
 
