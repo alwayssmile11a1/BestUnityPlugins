@@ -26,7 +26,7 @@
 * https://assetstore.unity.com/packages/tools/particles-effects/2ddl-pro-2d-dynamic-lights-and-shadows-25933
 ### Shadero Sprite: 2D Shader Editor
 * Shadero Sprite is a real time node-based shader editor. Shadero was made to be a real production time saver. Beautiful and fast, it creates many astonishing effects with the several premade and fully optimized node effects. Shadero will increase the number of the premade effects in every update. No code required.
-* https://assetstore.unity.com/packages/tools/utilities/ios-project-builder-for-windows-15522
+* https://assetstore.unity.com/packages/tools/visual-scripting/shadero-sprite-2d-shader-editor-97406
 ### PUN 2: 
 * PUN 2 is all you need to easily add multiplayer to your games and launch them globally. Forget about hosting, connection issues and latency. 
 * https://assetstore.unity.com/packages/tools/network/pun-2-free-119922
