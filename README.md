@@ -30,6 +30,12 @@
 ### PUN 2: 
 * PUN 2 is all you need to easily add multiplayer to your games and launch them globally. Forget about hosting, connection issues and latency. 
 * https://assetstore.unity.com/packages/tools/network/pun-2-free-119922
+### DarkRift Networking 2: 
+* Fast, Flexible and Powerful networking for Unity. Rewritten from scratch to make it the best.
+* https://assetstore.unity.com/packages/tools/network/darkrift-networking-2-95309
+### Forge Networking Remastered
+* Forge Networking is a set of core networking libraries for developing Real-time Multiplayer games and applications (communication between multiple devices over the internet or local area network). Forge Networking works cross platform so your iOS can communicate with Android, and all other platforms in real time
+* https://assetstore.unity.com/packages/tools/network/forge-networking-remastered-38344
 ### Smart Slicer 2D
 * Smart Slicer 2D is a powerful tool to modify 2D objects that are using 2D Colliders. 
 * https://assetstore.unity.com/packages/tools/physics/smart-slicer-2d-109353
