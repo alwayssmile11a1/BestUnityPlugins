@@ -99,3 +99,7 @@ It is perfect for creating flat styled UI. Easy to understand and well-commented
       * Batch screenshot export
 * https://assetstore.unity.com/packages/tools/utilities/xarm-aspect-and-resolution-master-10563
 
+###  PlayFab: Multiplayer 
+* PlayFab is a complete backend platform for live games.
+* https://github.com/PlayFab/UnitySDK
+
